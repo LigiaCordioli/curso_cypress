@@ -1,0 +1,19 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": "projeto de testes curso cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LigiaCordioli/curso_cypress.git"
+  },
+  "author": "Ligia Martins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LigiaCordioli/curso_cypress/issues"
+  },
+  "homepage": "https://github.com/LigiaCordioli/curso_cypress#readme"
+}
